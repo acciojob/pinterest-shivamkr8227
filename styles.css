@@ -4,7 +4,7 @@
 }
 .image-container{
 	width:80%;
-	overflow:hidden;
+	object-fit:cover;
 }
 .detail-container{
 	display:flex;
